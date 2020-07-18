@@ -9,7 +9,7 @@ td {
 }
 
 .bgimg {
-    background-image: url('runn.webp');
+    
 background-color:#cbeaed;text-align:center; height:150;
 }
 
